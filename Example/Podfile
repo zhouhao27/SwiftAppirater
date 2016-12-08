@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftAppirater_Example' do
+  pod 'SwiftAppirater', :path => '../'
+
+  target 'SwiftAppirater_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
