@@ -1,0 +1,6 @@
+framework module SwiftAppirater {
+  umbrella header "SwiftAppirater-umbrella.h"
+
+  export *
+  module * { export * }
+}

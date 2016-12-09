@@ -1,0 +1,16 @@
+PODS:
+  - SwiftAppirater (0.1.0)
+
+DEPENDENCIES:
+  - SwiftAppirater (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftAppirater:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftAppirater: 59a56c7303d3543911ec16669fd0615e0174f573
+
+PODFILE CHECKSUM: 6e2f71eec83901be6641d19419195be836f478b4
+
+COCOAPODS: 1.2.0.beta.1

@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import SwiftAppirater
 
 class ViewController: UIViewController {
 
@@ -20,5 +21,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func onSignificantChange(_ sender: Any) {
+        Appirater.userDidSignificantEvent(true)
+    }
 }
 
