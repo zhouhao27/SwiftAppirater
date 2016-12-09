@@ -24,7 +24,8 @@ pod "SwiftAppirater"
 
 ## TODO
 
-Unit test.
+- Need fully test.
+- Unit test.
 
 ## Author
 
